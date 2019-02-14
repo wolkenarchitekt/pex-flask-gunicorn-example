@@ -1,0 +1,4 @@
+Flask==1.0.2
+gunicorn==19.9.0
+pex==1.6.2
+setuptools==40.8.0
